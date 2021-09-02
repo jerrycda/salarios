@@ -1,0 +1,2 @@
+# salarios
+calcular los salarios
